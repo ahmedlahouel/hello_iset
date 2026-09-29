@@ -120,3 +120,14 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+//role de main() : le point de depart de l'application
+//role de runApp() : permet de lancer l'application en affichant le widget principal
+//role de MaterialApp : le widget principal ou on peut changer le theme, titre ...
+//role de Scaffold : donne la structure de la page en utilisant (body,appBar,floatingActionButton)
+//role de setState() : utilisé pour faire un mise a jour si necessaire
+
+//role de lib/ : c'est ou on travaille principalement
+//role de android/ : contient les fichiers de la partie android
+//role de web/ : contient les fichiers de l'éxecution sur le web
+//role de pubspec.yaml : contient les informations de projet
